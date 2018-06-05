@@ -1,6 +1,12 @@
 macOS Unlocker for VMware V2.1
 ==============================
 
+Windows-64 
+https://download3.vmware.com/software/wkst/file/VMware-workstation-full-14.1.2-8497320.exe
+
+Linux
+https://download3.vmware.com/software/wkst/file/VMware-Workstation-Full-14.1.2-8497320.x86_64.bundle
+
 +-----------------------------------------------------------------------------+
 | IMPORTANT:                                                                  |
 | ==========                                                                  |
